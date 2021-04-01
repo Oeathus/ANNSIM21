@@ -1,0 +1,2916 @@
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,50,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.99      0.84      0.91     63813
+           1       0.21      0.77      0.33      3445
+
+   micro avg       0.84      0.84      0.84     67258
+   macro avg       0.60      0.81      0.62     67258
+weighted avg       0.95      0.84      0.88     67258
+ samples avg       0.84      0.84      0.84     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.84      0.91     27251
+           1       0.22      0.77      0.34      1575
+
+   micro avg       0.84      0.84      0.84     28826
+   macro avg       0.60      0.80      0.62     28826
+weighted avg       0.94      0.84      0.88     28826
+ samples avg       0.84      0.84      0.84     28826
+
+Running time: 14.122128sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,50,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.99      0.63      0.77     63771
+           1       0.11      0.87      0.20      3487
+
+   micro avg       0.64      0.64      0.64     67258
+   macro avg       0.55      0.75      0.48     67258
+weighted avg       0.94      0.64      0.74     67258
+ samples avg       0.64      0.64      0.64     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.99      0.62      0.76     27293
+           1       0.11      0.86      0.20      1533
+
+   micro avg       0.63      0.63      0.63     28826
+   macro avg       0.55      0.74      0.48     28826
+weighted avg       0.94      0.63      0.73     28826
+ samples avg       0.63      0.63      0.63     28826
+
+Running time: 13.703116999999999sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,50,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.99      0.71      0.83     63787
+           1       0.14      0.86      0.24      3471
+
+   micro avg       0.72      0.72      0.72     67258
+   macro avg       0.57      0.79      0.54     67258
+weighted avg       0.95      0.72      0.80     67258
+ samples avg       0.72      0.72      0.72     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.99      0.72      0.83     27277
+           1       0.15      0.85      0.25      1549
+
+   micro avg       0.72      0.72      0.72     28826
+   macro avg       0.57      0.79      0.54     28826
+weighted avg       0.94      0.72      0.80     28826
+ samples avg       0.72      0.72      0.72     28826
+
+Running time: 13.621250000000003sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,100,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.86      0.92     63795
+           1       0.22      0.74      0.34      3463
+
+   micro avg       0.85      0.85      0.85     67258
+   macro avg       0.60      0.80      0.63     67258
+weighted avg       0.94      0.85      0.89     67258
+ samples avg       0.85      0.85      0.85     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.85      0.91     27269
+           1       0.22      0.74      0.34      1557
+
+   micro avg       0.85      0.85      0.85     28826
+   macro avg       0.60      0.80      0.63     28826
+weighted avg       0.94      0.85      0.88     28826
+ samples avg       0.85      0.85      0.85     28826
+
+Running time: 18.171838sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,100,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.93      0.95     63771
+           1       0.31      0.61      0.41      3487
+
+   micro avg       0.91      0.91      0.91     67258
+   macro avg       0.64      0.77      0.68     67258
+weighted avg       0.94      0.91      0.92     67258
+ samples avg       0.91      0.91      0.91     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.92      0.95     27293
+           1       0.30      0.59      0.40      1533
+
+   micro avg       0.91      0.91      0.91     28826
+   macro avg       0.64      0.75      0.67     28826
+weighted avg       0.94      0.91      0.92     28826
+ samples avg       0.91      0.91      0.91     28826
+
+Running time: 17.498962sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,100,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.99      0.44      0.61     63787
+           1       0.08      0.91      0.15      3471
+
+   micro avg       0.46      0.46      0.46     67258
+   macro avg       0.54      0.68      0.38     67258
+weighted avg       0.94      0.46      0.59     67258
+ samples avg       0.46      0.46      0.46     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.99      0.44      0.61     27277
+           1       0.09      0.92      0.16      1549
+
+   micro avg       0.47      0.47      0.47     28826
+   macro avg       0.54      0.68      0.38     28826
+weighted avg       0.94      0.47      0.58     28826
+ samples avg       0.47      0.47      0.47     28826
+
+Running time: 17.964494000000002sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,200,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.92      0.95     63704
+           1       0.32      0.67      0.44      3554
+
+   micro avg       0.91      0.91      0.91     67258
+   macro avg       0.65      0.80      0.69     67258
+weighted avg       0.95      0.91      0.92     67258
+ samples avg       0.91      0.91      0.91     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.92      0.95     27360
+           1       0.31      0.66      0.42      1466
+
+   micro avg       0.91      0.91      0.91     28826
+   macro avg       0.64      0.79      0.68     28826
+weighted avg       0.95      0.91      0.92     28826
+ samples avg       0.91      0.91      0.91     28826
+
+Running time: 26.174651999999995sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,200,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.89      0.93     63771
+           1       0.26      0.72      0.39      3487
+
+   micro avg       0.88      0.88      0.88     67258
+   macro avg       0.62      0.80      0.66     67258
+weighted avg       0.95      0.88      0.91     67258
+ samples avg       0.88      0.88      0.88     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.89      0.93     27293
+           1       0.26      0.70      0.38      1533
+
+   micro avg       0.88      0.88      0.88     28826
+   macro avg       0.62      0.79      0.66     28826
+weighted avg       0.94      0.88      0.90     28826
+ samples avg       0.88      0.88      0.88     28826
+
+Running time: 25.606295000000003sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,200,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.75      0.85     63787
+           1       0.14      0.75      0.24      3471
+
+   micro avg       0.75      0.75      0.75     67258
+   macro avg       0.56      0.75      0.55     67258
+weighted avg       0.94      0.75      0.82     67258
+ samples avg       0.75      0.75      0.75     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.75      0.85     27277
+           1       0.14      0.73      0.24      1549
+
+   micro avg       0.75      0.75      0.75     28826
+   macro avg       0.56      0.74      0.55     28826
+weighted avg       0.94      0.75      0.82     28826
+ samples avg       0.75      0.75      0.75     28826
+
+Running time: 25.770190000000014sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,50,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63721
+           1       0.00      0.00      0.00      3537
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.47      0.50      0.49     67258
+weighted avg       0.90      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27343
+           1       0.00      0.00      0.00      1483
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.497321sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,50,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       1.00      0.00      0.00      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.97      0.50      0.49     67258
+weighted avg       0.95      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.00      0.00      0.00      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.412303999999978sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,50,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.00      0.00      0.00      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.47      0.50      0.49     67258
+weighted avg       0.90      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.00      0.00      0.00      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.51137sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,100,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63754
+           1       1.00      0.00      0.00      3504
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.97      0.50      0.49     67258
+weighted avg       0.95      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27310
+           1       0.00      0.00      0.00      1516
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.625227999999993sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,100,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       1.00      0.00      0.00      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.97      0.50      0.49     67258
+weighted avg       0.95      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.00      0.00      0.00      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.318667000000005sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,100,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       1.00      0.00      0.00      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.97      0.50      0.49     67258
+weighted avg       0.95      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.00      0.00      0.00      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.36032400000002sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,200,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63730
+           1       0.46      0.00      0.00      3528
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.70      0.50      0.49     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27334
+           1       0.05      0.00      0.00      1492
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.50      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 24.96946600000001sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,200,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.16      0.00      0.00      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.55      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.00      0.00      0.00      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 24.791596000000027sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,200,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.70      0.00      0.00      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.82      0.50      0.49     67258
+weighted avg       0.94      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.06      0.00      0.00      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.50      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 24.798914000000025sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,50,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63735
+           1       0.75      0.07      0.14      3523
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.85      0.54      0.56     67258
+weighted avg       0.94      0.95      0.93     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27329
+           1       0.72      0.08      0.14      1497
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.84      0.54      0.56     28826
+weighted avg       0.94      0.95      0.93     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.98354599999999sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,50,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.75      0.06      0.12      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.85      0.53      0.55     67258
+weighted avg       0.94      0.95      0.93     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.63      0.06      0.11      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.79      0.53      0.54     28826
+weighted avg       0.93      0.95      0.93     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.770930999999962sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,50,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.73      0.09      0.16      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.84      0.54      0.57     67258
+weighted avg       0.94      0.95      0.93     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.77      0.09      0.16      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.54      0.57     28826
+weighted avg       0.94      0.95      0.93     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.776444000000026sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,100,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63762
+           1       0.76      0.16      0.27      3496
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.86      0.58      0.62     67258
+weighted avg       0.95      0.95      0.94     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27302
+           1       0.81      0.17      0.28      1524
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.88      0.58      0.63     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.76101sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,100,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.75      0.20      0.31      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.86      0.60      0.64     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.75      0.19      0.30      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.59      0.64     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.741600000000005sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,100,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.75      0.18      0.29      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.85      0.59      0.63     67258
+weighted avg       0.95      0.95      0.94     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.77      0.17      0.28      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.59      0.63     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.701209999999946sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,200,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63759
+           1       0.77      0.20      0.31      3499
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.60      0.65     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27305
+           1       0.76      0.18      0.29      1521
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.59      0.63     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 26.065642999999966sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,200,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.76      0.17      0.28      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.86      0.58      0.63     67258
+weighted avg       0.95      0.95      0.94     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.76      0.17      0.28      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.58      0.63     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.762783000000013sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,200,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.79      0.19      0.31      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.59      0.64     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.75      0.18      0.29      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.59      0.63     28826
+weighted avg       0.94      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.97395400000005sec
+
+Prediction results for dataset: ROC,ZScore,50,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.91      0.94     63780
+           1       0.27      0.61      0.38      3478
+
+   micro avg       0.90      0.90      0.90     67258
+   macro avg       0.63      0.76      0.66     67258
+weighted avg       0.94      0.90      0.91     67258
+ samples avg       0.90      0.90      0.90     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.91      0.94     27284
+           1       0.29      0.62      0.39      1542
+
+   micro avg       0.90      0.90      0.90     28826
+   macro avg       0.63      0.77      0.67     28826
+weighted avg       0.94      0.90      0.91     28826
+ samples avg       0.90      0.90      0.90     28826
+
+Running time: 13.399477000000047sec
+
+Prediction results for dataset: ROC,ZScore,50,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.92      0.95     63771
+           1       0.33      0.68      0.44      3487
+
+   micro avg       0.91      0.91      0.91     67258
+   macro avg       0.65      0.80      0.70     67258
+weighted avg       0.95      0.91      0.93     67258
+ samples avg       0.91      0.91      0.91     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.92      0.95     27293
+           1       0.32      0.67      0.44      1533
+
+   micro avg       0.91      0.91      0.91     28826
+   macro avg       0.65      0.79      0.69     28826
+weighted avg       0.95      0.91      0.92     28826
+ samples avg       0.91      0.91      0.91     28826
+
+Running time: 13.34420399999999sec
+
+Prediction results for dataset: ROC,ZScore,50,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.93      0.95     63787
+           1       0.31      0.56      0.40      3471
+
+   micro avg       0.91      0.91      0.91     67258
+   macro avg       0.64      0.75      0.68     67258
+weighted avg       0.94      0.91      0.92     67258
+ samples avg       0.91      0.91      0.91     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.93      0.95     27277
+           1       0.32      0.55      0.40      1549
+
+   micro avg       0.91      0.91      0.91     28826
+   macro avg       0.65      0.74      0.68     28826
+weighted avg       0.94      0.91      0.92     28826
+ samples avg       0.91      0.91      0.91     28826
+
+Running time: 13.449897999999962sec
+
+Prediction results for dataset: ROC,ZScore,100,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97     63774
+           1       0.45      0.57      0.50      3484
+
+   micro avg       0.94      0.94      0.94     67258
+   macro avg       0.71      0.76      0.73     67258
+weighted avg       0.95      0.94      0.94     67258
+ samples avg       0.94      0.94      0.94     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97     27290
+           1       0.46      0.56      0.50      1536
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.72      0.76      0.74     28826
+weighted avg       0.95      0.94      0.94     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 17.563811999999984sec
+
+Prediction results for dataset: ROC,ZScore,100,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.93      0.95     63771
+           1       0.32      0.58      0.41      3487
+
+   micro avg       0.91      0.91      0.91     67258
+   macro avg       0.65      0.76      0.68     67258
+weighted avg       0.94      0.91      0.92     67258
+ samples avg       0.91      0.91      0.91     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.93      0.95     27293
+           1       0.31      0.58      0.41      1533
+
+   micro avg       0.91      0.91      0.91     28826
+   macro avg       0.64      0.76      0.68     28826
+weighted avg       0.94      0.91      0.92     28826
+ samples avg       0.91      0.91      0.91     28826
+
+Running time: 17.485347000000047sec
+
+Prediction results for dataset: ROC,ZScore,100,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.92      0.94     63787
+           1       0.24      0.48      0.32      3471
+
+   micro avg       0.90      0.90      0.90     67258
+   macro avg       0.61      0.70      0.63     67258
+weighted avg       0.93      0.90      0.91     67258
+ samples avg       0.90      0.90      0.90     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.92      0.94     27277
+           1       0.25      0.48      0.33      1549
+
+   micro avg       0.90      0.90      0.90     28826
+   macro avg       0.61      0.70      0.64     28826
+weighted avg       0.93      0.90      0.91     28826
+ samples avg       0.90      0.90      0.90     28826
+
+Running time: 17.27283799999998sec
+
+Prediction results for dataset: ROC,ZScore,200,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97     63708
+           1       0.49      0.49      0.49      3550
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.73      0.73      0.73     67258
+weighted avg       0.95      0.95      0.95     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97     27356
+           1       0.49      0.52      0.50      1470
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.73      0.74      0.74     28826
+weighted avg       0.95      0.95      0.95     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 24.973277000000053sec
+
+Prediction results for dataset: ROC,ZScore,200,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98     63771
+           1       0.58      0.46      0.51      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.77      0.72      0.74     67258
+weighted avg       0.95      0.95      0.95     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98     27293
+           1       0.57      0.46      0.51      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.77      0.72      0.74     28826
+weighted avg       0.95      0.95      0.95     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.39751899999999sec
+
+Prediction results for dataset: ROC,ZScore,200,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.97     63787
+           1       0.55      0.37      0.44      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.76      0.68      0.71     67258
+weighted avg       0.94      0.95      0.95     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97     27277
+           1       0.58      0.36      0.44      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.77      0.67      0.71     28826
+weighted avg       0.94      0.95      0.95     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.11447899999996sec
+
+Prediction results for dataset: ROC,None,50,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63768
+           1       0.48      0.01      0.02      3490
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.72      0.51      0.50     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27296
+           1       0.41      0.01      0.02      1530
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.68      0.50      0.50     28826
+weighted avg       0.92      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.518151999999986sec
+
+Prediction results for dataset: ROC,None,50,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       1.00      0.00      0.00      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.97      0.50      0.49     67258
+weighted avg       0.95      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.00      0.00      0.00      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.197910999999976sec
+
+Prediction results for dataset: ROC,None,50,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       1.00      0.00      0.00      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.97      0.50      0.49     67258
+weighted avg       0.95      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.25      0.00      0.00      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.60      0.50      0.49     28826
+weighted avg       0.91      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.355464999999981sec
+
+Prediction results for dataset: ROC,None,100,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63767
+           1       0.21      0.00      0.00      3491
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.58      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27297
+           1       0.00      0.00      0.00      1529
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.003772000000026sec
+
+Prediction results for dataset: ROC,None,100,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.09      0.00      0.00      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.52      0.50      0.49     67258
+weighted avg       0.90      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.00      0.00      0.00      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.47      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 16.838532999999984sec
+
+Prediction results for dataset: ROC,None,100,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.14      0.00      0.00      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.54      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.09      0.00      0.00      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.52      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.192994999999996sec
+
+Prediction results for dataset: ROC,None,200,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63753
+           1       0.22      0.00      0.00      3505
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.58      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27311
+           1       0.31      0.00      0.01      1515
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.63      0.50      0.49     28826
+weighted avg       0.91      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.089009000000033sec
+
+Prediction results for dataset: ROC,None,200,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.36      0.00      0.01      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.65      0.50      0.49     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.20      0.00      0.01      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.57      0.50      0.49     28826
+weighted avg       0.91      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.276050000000055sec
+
+Prediction results for dataset: ROC,None,200,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.46      0.00      0.01      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.70      0.50      0.49     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.12      0.00      0.00      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.53      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.39736599999992sec
+
+Prediction results for dataset: ROC,MinMax,50,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63778
+           1       0.73      0.07      0.14      3480
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.84      0.54      0.56     67258
+weighted avg       0.94      0.95      0.93     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27286
+           1       0.77      0.07      0.14      1540
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.54      0.56     28826
+weighted avg       0.94      0.95      0.93     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.510453999999982sec
+
+Prediction results for dataset: ROC,MinMax,50,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.73      0.09      0.16      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.84      0.54      0.57     67258
+weighted avg       0.94      0.95      0.93     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.73      0.07      0.13      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.84      0.53      0.55     28826
+weighted avg       0.94      0.95      0.93     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.438857999999982sec
+
+Prediction results for dataset: ROC,MinMax,50,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.98     63787
+           1       0.75      0.10      0.17      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.85      0.55      0.57     67258
+weighted avg       0.94      0.95      0.93     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.74      0.08      0.15      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.84      0.54      0.56     28826
+weighted avg       0.94      0.95      0.93     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 13.386625999999978sec
+
+Prediction results for dataset: ROC,MinMax,100,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.98     63754
+           1       0.80      0.13      0.22      3504
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.88      0.56      0.60     67258
+weighted avg       0.95      0.95      0.94     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.98     27310
+           1       0.76      0.13      0.23      1516
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.57      0.60     28826
+weighted avg       0.94      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.405393000000004sec
+
+Prediction results for dataset: ROC,MinMax,100,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.98     63771
+           1       0.80      0.12      0.21      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.88      0.56      0.59     67258
+weighted avg       0.95      0.95      0.94     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.79      0.10      0.17      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.87      0.55      0.57     28826
+weighted avg       0.94      0.95      0.93     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.40900399999998sec
+
+Prediction results for dataset: ROC,MinMax,100,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.78      0.16      0.27      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.87      0.58      0.62     67258
+weighted avg       0.95      0.95      0.94     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.98     27277
+           1       0.79      0.15      0.25      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.87      0.57      0.61     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 17.31645100000003sec
+
+Prediction results for dataset: ROC,MinMax,200,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63793
+           1       0.79      0.21      0.33      3465
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.60      0.66     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27271
+           1       0.79      0.20      0.31      1555
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.87      0.60      0.65     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.553582000000006sec
+
+Prediction results for dataset: ROC,MinMax,200,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.80      0.20      0.32      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.88      0.60      0.65     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.80      0.18      0.30      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.88      0.59      0.64     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.76500299999998sec
+
+Prediction results for dataset: ROC,MinMax,200,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.79      0.22      0.34      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.61      0.66     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.78      0.21      0.33      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.87      0.60      0.65     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 25.555045999999948sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,400,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63769
+           1       0.78      0.22      0.35      3489
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.61      0.66     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27295
+           1       0.78      0.21      0.33      1531
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.87      0.60      0.65     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 70.46875sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,400,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.77      0.23      0.35      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.86      0.61      0.66     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.77      0.23      0.35      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.61      0.66     28826
+weighted avg       0.95      0.96      0.94     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 70.296875sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,400,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.78      0.24      0.36      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.62      0.67     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.77      0.23      0.35      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.86      0.61      0.66     28826
+weighted avg       0.95      0.95      0.94     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 71.71875sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,600,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63780
+           1       0.77      0.25      0.37      3478
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.86      0.62      0.68     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27284
+           1       0.78      0.24      0.36      1542
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.62      0.67     28826
+weighted avg       0.95      0.96      0.94     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 94.09375sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,600,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.78      0.23      0.35      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.61      0.66     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.79      0.23      0.36      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.61      0.67     28826
+weighted avg       0.95      0.96      0.94     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 93.6875sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,600,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.79      0.25      0.39      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.88      0.63      0.68     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.78      0.24      0.37      1549
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.62      0.67     28826
+weighted avg       0.95      0.96      0.94     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 94.09375sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,1000,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63808
+           1       0.79      0.30      0.43      3450
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.88      0.65      0.71     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.98     27256
+           1       0.77      0.29      0.43      1570
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.64      0.70     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 152.5625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,1000,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.80      0.26      0.39      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.88      0.63      0.68     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.78      0.25      0.38      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.62      0.68     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 154.390625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,MinMax,1000,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.78      0.30      0.44      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.65      0.71     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.76      0.27      0.40      1549
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.86      0.63      0.69     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 152.84375sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,400,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63749
+           1       0.39      0.00      0.01      3509
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.67      0.50      0.49     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27315
+           1       0.06      0.00      0.00      1511
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.50      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 71.4375sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,400,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.26      0.00      0.01      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.60      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.04      0.00      0.00      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.49      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 69.90625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,400,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.30      0.00      0.01      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.62      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.03      0.00      0.00      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.49      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 70.78125sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,600,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63811
+           1       0.15      0.00      0.00      3447
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.55      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27253
+           1       0.16      0.00      0.01      1573
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.55      0.50      0.49     28826
+weighted avg       0.90      0.94      0.92     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 91.90625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,600,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.38      0.00      0.01      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.67      0.50      0.49     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.11      0.00      0.01      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.53      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 93.140625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,600,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.46      0.01      0.02      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.70      0.50      0.49     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.09      0.00      0.01      1549
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.52      0.50      0.49     28826
+weighted avg       0.90      0.94      0.92     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 92.140625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,1000,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63727
+           1       0.31      0.01      0.01      3531
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.63      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27337
+           1       0.09      0.00      0.01      1489
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.52      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 160.5sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,1000,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.30      0.01      0.01      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.62      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.06      0.00      0.01      1533
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.50      0.50      0.49     28826
+weighted avg       0.90      0.94      0.92     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 164.640625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,None,1000,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.39      0.01      0.01      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.67      0.50      0.49     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.04      0.00      0.00      1549
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.49      0.50      0.49     28826
+weighted avg       0.90      0.94      0.92     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 163.078125sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,400,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.96      0.97     63689
+           1       0.46      0.54      0.49      3569
+
+   micro avg       0.94      0.94      0.94     67258
+   macro avg       0.72      0.75      0.73     67258
+weighted avg       0.95      0.94      0.94     67258
+ samples avg       0.94      0.94      0.94     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.96      0.97     27375
+           1       0.44      0.53      0.48      1451
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.71      0.75      0.73     28826
+weighted avg       0.95      0.94      0.94     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 72.03125sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,400,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.94      0.96     63771
+           1       0.36      0.65      0.47      3487
+
+   micro avg       0.92      0.92      0.92     67258
+   macro avg       0.67      0.80      0.71     67258
+weighted avg       0.95      0.92      0.93     67258
+ samples avg       0.92      0.92      0.92     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.93      0.96     27293
+           1       0.36      0.65      0.46      1533
+
+   micro avg       0.92      0.92      0.92     28826
+   macro avg       0.67      0.79      0.71     28826
+weighted avg       0.95      0.92      0.93     28826
+ samples avg       0.92      0.92      0.92     28826
+
+Running time: 72.765625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,400,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.94      0.96     63787
+           1       0.38      0.65      0.47      3471
+
+   micro avg       0.93      0.93      0.93     67258
+   macro avg       0.68      0.79      0.72     67258
+weighted avg       0.95      0.93      0.94     67258
+ samples avg       0.93      0.93      0.93     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.94      0.96     27277
+           1       0.37      0.62      0.47      1549
+
+   micro avg       0.92      0.92      0.92     28826
+   macro avg       0.68      0.78      0.71     28826
+weighted avg       0.95      0.92      0.93     28826
+ samples avg       0.92      0.92      0.92     28826
+
+Running time: 71.9375sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,600,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.83      0.90     63724
+           1       0.20      0.76      0.32      3534
+
+   micro avg       0.83      0.83      0.83     67258
+   macro avg       0.59      0.80      0.61     67258
+weighted avg       0.94      0.83      0.87     67258
+ samples avg       0.83      0.83      0.83     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.83      0.90     27340
+           1       0.19      0.76      0.31      1486
+
+   micro avg       0.82      0.82      0.82     28826
+   macro avg       0.59      0.80      0.60     28826
+weighted avg       0.94      0.82      0.87     28826
+ samples avg       0.82      0.82      0.82     28826
+
+Running time: 94.0625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,600,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97     63771
+           1       0.49      0.53      0.51      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.73      0.75      0.74     67258
+weighted avg       0.95      0.95      0.95     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97     27293
+           1       0.46      0.50      0.48      1533
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.72      0.73      0.72     28826
+weighted avg       0.94      0.94      0.94     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 93.21875sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,600,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97     63787
+           1       0.43      0.57      0.49      3471
+
+   micro avg       0.94      0.94      0.94     67258
+   macro avg       0.71      0.77      0.73     67258
+weighted avg       0.95      0.94      0.94     67258
+ samples avg       0.94      0.94      0.94     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97     27277
+           1       0.45      0.58      0.51      1549
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.71      0.77      0.74     28826
+weighted avg       0.95      0.94      0.94     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 95.640625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,1000,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97     63809
+           1       0.43      0.57      0.49      3449
+
+   micro avg       0.94      0.94      0.94     67258
+   macro avg       0.70      0.76      0.73     67258
+weighted avg       0.95      0.94      0.94     67258
+ samples avg       0.94      0.94      0.94     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97     27255
+           1       0.45      0.58      0.51      1571
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.71      0.77      0.74     28826
+weighted avg       0.95      0.94      0.94     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 152.359375sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,1000,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97     63771
+           1       0.49      0.55      0.52      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.73      0.76      0.74     67258
+weighted avg       0.95      0.95      0.95     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97     27293
+           1       0.48      0.55      0.51      1533
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.72      0.76      0.74     28826
+weighted avg       0.95      0.94      0.95     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 155.515625sec
+
+Prediction results for dataset: ROC+BUF+SYR+ALB,ZScore,1000,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.96      0.97     63787
+           1       0.43      0.59      0.50      3471
+
+   micro avg       0.94      0.94      0.94     67258
+   macro avg       0.70      0.77      0.73     67258
+weighted avg       0.95      0.94      0.94     67258
+ samples avg       0.94      0.94      0.94     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.96      0.97     27277
+           1       0.43      0.56      0.49      1549
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.70      0.76      0.73     28826
+weighted avg       0.95      0.94      0.94     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 153.265625sec
+
+Prediction results for dataset: ROC,MinMax,400,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63729
+           1       0.80      0.26      0.39      3529
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.88      0.63      0.69     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27335
+           1       0.78      0.24      0.36      1491
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.62      0.67     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 49.375sec
+
+Prediction results for dataset: ROC,MinMax,400,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.81      0.21      0.34      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.88      0.61      0.66     67258
+weighted avg       0.95      0.96      0.94     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.81      0.20      0.32      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.88      0.60      0.65     28826
+weighted avg       0.95      0.96      0.94     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 48.703125sec
+
+Prediction results for dataset: ROC,MinMax,400,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.78      0.26      0.39      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.63      0.69     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.79      0.25      0.38      1549
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.88      0.62      0.68     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 48.734375sec
+
+Prediction results for dataset: ROC,MinMax,600,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63758
+           1       0.79      0.26      0.39      3500
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.88      0.63      0.69     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27306
+           1       0.79      0.25      0.38      1520
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.88      0.62      0.68     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 70.046875sec
+
+Prediction results for dataset: ROC,MinMax,600,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.79      0.28      0.41      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.64      0.69     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.78      0.26      0.39      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.63      0.68     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 70.921875sec
+
+Prediction results for dataset: ROC,MinMax,600,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.77      0.30      0.43      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.65      0.70     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.79      0.29      0.42      1549
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.64      0.70     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 70.21875sec
+
+Prediction results for dataset: ROC,MinMax,1000,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.98     63780
+           1       0.77      0.32      0.45      3478
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.66      0.71     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27284
+           1       0.78      0.29      0.42      1542
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.64      0.70     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 128.875sec
+
+Prediction results for dataset: ROC,MinMax,1000,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63771
+           1       0.78      0.29      0.42      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.64      0.70     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.78      0.28      0.41      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.64      0.69     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 130.171875sec
+
+Prediction results for dataset: ROC,MinMax,1000,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     63787
+           1       0.78      0.30      0.43      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.87      0.65      0.71     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27277
+           1       0.78      0.30      0.43      1549
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.87      0.65      0.71     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 128.8125sec
+
+Prediction results for dataset: ROC,None,400,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63755
+           1       0.33      0.00      0.01      3503
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.64      0.50      0.49     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27309
+           1       0.14      0.00      0.00      1517
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.55      0.50      0.49     28826
+weighted avg       0.91      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 48.546875sec
+
+Prediction results for dataset: ROC,None,400,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.27      0.00      0.01      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.61      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.15      0.00      0.01      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.55      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 48.890625sec
+
+Prediction results for dataset: ROC,None,400,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.13      0.00      0.01      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.54      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.14      0.00      0.01      1549
+
+   micro avg       0.94      0.94      0.94     28826
+   macro avg       0.54      0.50      0.49     28826
+weighted avg       0.90      0.94      0.92     28826
+ samples avg       0.94      0.94      0.94     28826
+
+Running time: 49.03125sec
+
+Prediction results for dataset: ROC,None,600,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63725
+           1       0.15      0.00      0.01      3533
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.55      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27339
+           1       0.18      0.00      0.01      1487
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.56      0.50      0.49     28826
+weighted avg       0.91      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 70.9375sec
+
+Prediction results for dataset: ROC,None,600,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.17      0.00      0.01      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.56      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.09      0.00      0.00      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.52      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 70.625sec
+
+Prediction results for dataset: ROC,None,600,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.16      0.00      0.01      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.55      0.50      0.49     67258
+weighted avg       0.91      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.11      0.00      0.01      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.53      0.50      0.49     28826
+weighted avg       0.90      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 70.4375sec
+
+Prediction results for dataset: ROC,None,1000,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63745
+           1       0.38      0.01      0.02      3513
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.66      0.51      0.50     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27319
+           1       0.31      0.02      0.03      1507
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.63      0.51      0.50     28826
+weighted avg       0.92      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 127.84375sec
+
+Prediction results for dataset: ROC,None,1000,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63771
+           1       0.31      0.01      0.02      3487
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.63      0.50      0.50     67258
+weighted avg       0.92      0.95      0.92     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.38      0.01      0.03      1533
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.66      0.51      0.50     28826
+weighted avg       0.92      0.95      0.92     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 126.625sec
+
+Prediction results for dataset: ROC,None,1000,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     63787
+           1       0.47      0.07      0.12      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.71      0.53      0.55     67258
+weighted avg       0.93      0.95      0.93     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.50      0.08      0.13      1549
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.72      0.54      0.55     28826
+weighted avg       0.93      0.95      0.93     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 128.453125sec
+
+Prediction results for dataset: ROC,ZScore,400,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.98      0.97      0.97     63743
+           1       0.54      0.55      0.54      3515
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.76      0.76      0.76     67258
+weighted avg       0.95      0.95      0.95     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97     27321
+           1       0.53      0.52      0.53      1505
+
+   micro avg       0.95      0.95      0.95     28826
+   macro avg       0.75      0.75      0.75     28826
+weighted avg       0.95      0.95      0.95     28826
+ samples avg       0.95      0.95      0.95     28826
+
+Running time: 50.21875sec
+
+Prediction results for dataset: ROC,ZScore,400,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     63771
+           1       0.64      0.47      0.54      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.80      0.73      0.76     67258
+weighted avg       0.95      0.96      0.96     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98     27293
+           1       0.62      0.45      0.52      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.79      0.72      0.75     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 49.296875sec
+
+Prediction results for dataset: ROC,ZScore,400,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     63787
+           1       0.60      0.39      0.47      3471
+
+   micro avg       0.95      0.95      0.95     67258
+   macro avg       0.78      0.69      0.73     67258
+weighted avg       0.95      0.95      0.95     67258
+ samples avg       0.95      0.95      0.95     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27277
+           1       0.63      0.40      0.49      1549
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.80      0.69      0.73     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 49.546875sec
+
+Prediction results for dataset: ROC,ZScore,600,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98     63727
+           1       0.61      0.47      0.53      3531
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.79      0.73      0.75     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98     27337
+           1       0.59      0.47      0.53      1489
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.78      0.73      0.75     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 71.015625sec
+
+Prediction results for dataset: ROC,ZScore,600,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     63771
+           1       0.68      0.39      0.49      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.82      0.69      0.74     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27293
+           1       0.66      0.36      0.47      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.81      0.68      0.72     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 71.125sec
+
+Prediction results for dataset: ROC,ZScore,600,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98     63787
+           1       0.60      0.48      0.53      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.79      0.73      0.75     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.98      0.98     27277
+           1       0.63      0.47      0.54      1549
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.80      0.73      0.76     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 70.734375sec
+
+Prediction results for dataset: ROC,ZScore,1000,None
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     63742
+           1       0.65      0.46      0.54      3516
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.81      0.72      0.76     67258
+weighted avg       0.95      0.96      0.96     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27322
+           1       0.66      0.44      0.53      1504
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.81      0.71      0.75     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 129.671875sec
+
+Prediction results for dataset: ROC,ZScore,1000,0
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     63771
+           1       0.66      0.46      0.54      3487
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.82      0.72      0.76     67258
+weighted avg       0.95      0.96      0.96     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27293
+           1       0.66      0.44      0.52      1533
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.81      0.71      0.75     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 129.296875sec
+
+Prediction results for dataset: ROC,ZScore,1000,42
+
+Classifier performance on training dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     63787
+           1       0.65      0.44      0.52      3471
+
+   micro avg       0.96      0.96      0.96     67258
+   macro avg       0.81      0.71      0.75     67258
+weighted avg       0.95      0.96      0.95     67258
+ samples avg       0.96      0.96      0.96     67258
+
+
+Classifier performance on test dataset
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27277
+           1       0.68      0.42      0.52      1549
+
+   micro avg       0.96      0.96      0.96     28826
+   macro avg       0.82      0.71      0.75     28826
+weighted avg       0.95      0.96      0.95     28826
+ samples avg       0.96      0.96      0.96     28826
+
+Running time: 129.40625sec
+

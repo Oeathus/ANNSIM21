@@ -1,0 +1,234 @@
+ROC+BUF+SYR+ALB.MinMax.csv,None,11
+Running time: 784.3199090957642sec
+
+Running Process time: 4832.640625sec
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.98     27326
+           1       0.68      0.22      0.33      1500
+
+    accuracy                           0.95     28826
+   macro avg       0.82      0.61      0.65     28826
+weighted avg       0.94      0.95      0.94     28826
+
+ROC+BUF+SYR+ALB.MinMax.csv,0,13
+Running time: 726.8700292110443sec
+
+Running Process time: 4415.203125sec
+              precision    recall  f1-score   support
+
+           0       0.96      1.00      0.98     27293
+           1       0.70      0.20      0.31      1533
+
+    accuracy                           0.95     28826
+   macro avg       0.83      0.60      0.64     28826
+weighted avg       0.94      0.95      0.94     28826
+
+ROC+BUF+SYR+ALB.MinMax.csv,42,13
+Running time: 454.04882740974426sec
+
+Running Process time: 3033.6875sec
+              precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97     27277
+           1       0.67      0.19      0.30      1549
+
+    accuracy                           0.95     28826
+   macro avg       0.81      0.59      0.64     28826
+weighted avg       0.94      0.95      0.94     28826
+
+ROC+BUF+SYR+ALB.None.csv,None,2
+Running time: 911.0432715415955sec
+
+Running Process time: 6460.03125sec
+              precision    recall  f1-score   support
+
+           0       0.95      0.99      0.97     27304
+           1       0.58      0.13      0.21      1522
+
+    accuracy                           0.95     28826
+   macro avg       0.77      0.56      0.59     28826
+weighted avg       0.93      0.95      0.93     28826
+
+ROC+BUF+SYR+ALB.None.csv,0,6
+Running time: 741.6827640533447sec
+
+Running Process time: 5256.671875sec
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27293
+           1       0.62      0.09      0.16      1533
+
+    accuracy                           0.95     28826
+   macro avg       0.79      0.55      0.57     28826
+weighted avg       0.93      0.95      0.93     28826
+
+ROC+BUF+SYR+ALB.None.csv,42,4
+Running time: 841.2610087394714sec
+
+Running Process time: 6064.515625sec
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27277
+           1       0.56      0.11      0.18      1549
+
+    accuracy                           0.95     28826
+   macro avg       0.76      0.55      0.58     28826
+weighted avg       0.93      0.95      0.93     28826
+
+ROC+BUF+SYR+ALB.ZScore.csv,None,11
+Running time: 1798.0618243217468sec
+
+Running Process time: 13063.21875sec
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27350
+           1       0.77      0.41      0.53      1476
+
+    accuracy                           0.96     28826
+   macro avg       0.87      0.70      0.76     28826
+weighted avg       0.96      0.96      0.96     28826
+
+ROC+BUF+SYR+ALB.ZScore.csv,0,9
+Running time: 1766.3459959030151sec
+
+Running Process time: 12799.359375sec
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27293
+           1       0.75      0.40      0.52      1533
+
+    accuracy                           0.96     28826
+   macro avg       0.86      0.70      0.75     28826
+weighted avg       0.96      0.96      0.96     28826
+
+ROC+BUF+SYR+ALB.ZScore.csv,42,5
+Running time: 1770.097395658493sec
+
+Running Process time: 12887.171875sec
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27277
+           1       0.71      0.42      0.53      1549
+
+    accuracy                           0.96     28826
+   macro avg       0.84      0.71      0.75     28826
+weighted avg       0.95      0.96      0.95     28826
+
+ROC.MinMax.csv,None,11
+Running time: 220.29517483711243sec
+
+Running Process time: 666.90625sec
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.99      0.98     27334
+         1.0       0.73      0.27      0.40      1492
+
+    accuracy                           0.96     28826
+   macro avg       0.84      0.63      0.69     28826
+weighted avg       0.95      0.96      0.95     28826
+
+ROC.MinMax.csv,0,11
+Running time: 212.1966302394867sec
+
+Running Process time: 615.203125sec
+              precision    recall  f1-score   support
+
+         0.0       0.96      0.99      0.98     27293
+         1.0       0.73      0.25      0.37      1533
+
+    accuracy                           0.96     28826
+   macro avg       0.84      0.62      0.67     28826
+weighted avg       0.95      0.96      0.94     28826
+
+ROC.MinMax.csv,42,9
+Running time: 106.19094514846802sec
+
+Running Process time: 376.5625sec
+              precision    recall  f1-score   support
+
+         0.0       0.96      1.00      0.98     27277
+         1.0       0.76      0.26      0.39      1549
+
+    accuracy                           0.96     28826
+   macro avg       0.86      0.63      0.68     28826
+weighted avg       0.95      0.96      0.95     28826
+
+ROC.None.csv,None,8
+Running time: 121.10795092582703sec
+
+Running Process time: 347.765625sec
+              precision    recall  f1-score   support
+
+           0       0.95      1.00      0.97     27242
+           1       0.65      0.13      0.21      1584
+
+    accuracy                           0.95     28826
+   macro avg       0.80      0.56      0.59     28826
+weighted avg       0.94      0.95      0.93     28826
+
+ROC.None.csv,0,2
+Running time: 119.67092394828796sec
+
+Running Process time: 354.1875sec
+              precision    recall  f1-score   support
+
+           0       0.95      0.99      0.97     27293
+           1       0.59      0.17      0.26      1533
+
+    accuracy                           0.95     28826
+   macro avg       0.77      0.58      0.62     28826
+weighted avg       0.94      0.95      0.94     28826
+
+ROC.None.csv,42,2
+Running time: 120.56016135215759sec
+
+Running Process time: 348.1875sec
+              precision    recall  f1-score   support
+
+           0       0.95      0.99      0.97     27277
+           1       0.62      0.16      0.25      1549
+
+    accuracy                           0.95     28826
+   macro avg       0.79      0.58      0.61     28826
+weighted avg       0.94      0.95      0.94     28826
+
+ROC.ZScore.csv,None,13
+Running time: 231.31057381629944sec
+
+Running Process time: 868.375sec
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27313
+           1       0.70      0.41      0.52      1513
+
+    accuracy                           0.96     28826
+   macro avg       0.84      0.70      0.75     28826
+weighted avg       0.95      0.96      0.96     28826
+
+ROC.ZScore.csv,0,17
+Running time: 225.98706793785095sec
+
+Running Process time: 826.453125sec
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27293
+           1       0.71      0.40      0.51      1533
+
+    accuracy                           0.96     28826
+   macro avg       0.84      0.69      0.74     28826
+weighted avg       0.95      0.96      0.95     28826
+
+ROC.ZScore.csv,42,25
+Running time: 232.43240976333618sec
+
+Running Process time: 882.296875sec
+              precision    recall  f1-score   support
+
+           0       0.97      0.99      0.98     27277
+           1       0.76      0.38      0.51      1549
+
+    accuracy                           0.96     28826
+   macro avg       0.86      0.69      0.74     28826
+weighted avg       0.95      0.96      0.95     28826
+

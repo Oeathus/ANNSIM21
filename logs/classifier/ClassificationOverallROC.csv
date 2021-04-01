@@ -1,0 +1,8 @@
+﻿Dataset,Method,Normalization,Random State,Parameters,Accuracy
+ROC,KNN,ZScore,42,25,0.960244224
+ROC,SVM,ZScore,None,poly,0.960036079
+ROC,RCC,ZScore,None,1000,0.958821897
+ROC,DWNN,ZScore,None,5,0.95857906
+ROC,WNN,ZScore,None,N/A,0.95791996
+ROC,DNN,MinMax,None,4,0.948484
+ROC,LSTM,MinMax,N/A,3,0.946502914

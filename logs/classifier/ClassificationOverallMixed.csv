@@ -1,0 +1,8 @@
+﻿Dataset,Method,Normalization,Random State,Parameters,Accuracy
+Mixed,SVM,ZScore,None,rbf,0.963852078
+Mixed,KNN,ZScore,None,11,0.963401096
+Mixed,WNN,ZScore,None,N/A,0.96055645
+Mixed,DWNN,ZScore,None,4,0.9590994
+Mixed,RCC,MinMax,None,1000,0.956809824
+Mixed,DNN,ZScore,None,5,0.9487615
+Mixed,LSTM,MinMax,N/A,3,0.948168193
