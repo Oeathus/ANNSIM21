@@ -1,6 +1,13 @@
-# CSC434AIProject
+# ANNSIM21 Project
 
-Brockport CSC434 AI Project - Rochester Precipitation Prediction
+KNN, An Underestimated Model For Regional Rainfall Forecasting
+
+## Repository Preface
+
+There is a Python command line interface for the pretrained models, ModelInterface.py.
+Run ModelInterface.py --help to see available options. The pretrained models are too large for this repository so they are stored at: [https://www.itss.brockport.edu/~nyu/models/models.zip](https://www.itss.brockport.edu/~nyu/models/models.zip)
+
+Simply download the archive to the top level of this repository and unzip to be able to use the ModelInterface.
 
 ## Setup
 
